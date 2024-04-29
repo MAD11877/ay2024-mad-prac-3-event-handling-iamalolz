@@ -13,6 +13,8 @@ import androidx.core.view.WindowInsetsCompat;
 
 import java.util.Random;
 
+import sg.edu.np.mad.madpractical3.R;
+
 public class ListActivity extends AppCompatActivity {
 
     @Override
